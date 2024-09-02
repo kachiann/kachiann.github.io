@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-### SampSci 2024 - Efficient and Confident Sampling Methods for Accelerating Scientific Discovery
+**SampSci 2024 - Efficient and Confident Sampling Methods for Accelerating Scientific Discovery**
 
 I’m excited to share that I recently gave a talk at SampSci 2024, where I presented on "*Generalized Tractability for Approximation Problems Defined on Hilbert Spaces*." The conference focused on advanced sampling methods that drive scientific progress, and it was a fantastic opportunity to delve into how generalized tractability can tackle complex approximation problems in Hilbert spaces.
