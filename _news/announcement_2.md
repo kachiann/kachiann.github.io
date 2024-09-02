@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Exciting News: I've Just Launched a Medium Blog!
-date: 2024-18-03 16:11:00-0400
+title: "Exciting News: I've Just Launched a Medium Blog!"
+date: 2024-03-18 16:11:00 -0400
 inline: false
 related_posts: false
 ---
+
+
 
 I’m thrilled to announce the launch of my new Medium blog! As a data scientist with a Ph.D. in Computational Mathematics, I’ll be sharing my insights on data science, AI, and computational mathematics. Expect practical advice, tips, and in-depth explorations on topics like predictive modeling and data visualization.
 
