@@ -30,7 +30,7 @@
       "startDate": "2022-08",
       "endDate": "2023-07",
       "summary": "At Illinois Institute of Technology, I served as a Senior Research Associate and Visiting Assistant Professor, focusing on algorithm efficiency and Information-Based Complexity. I collaborated on innovative projects and delivered engaging lectures in undergraduate calculus courses.",
-      "highlights":
+      "highlights": []
     },
     {
       "name": "Johann Radon Institute for Computational and Applied Mathematics (RICAM)",
@@ -39,9 +39,9 @@
       "startDate": "2018-12",
       "endDate": "2022-07",
       "summary": "At RICAM, I collaborated with an international research team to develop efficient quasi-Monte Carlo algorithms, resulting in four journal publications. I optimized data exchange within the team, boosting research productivity.",
-      "highlights":
+      "highlights": []
     }
-],
+  ],
   "volunteer": [
     {
       "organization": "Africa Agility Foundation",
@@ -57,7 +57,8 @@
         "Ensured alignment with industry best practices and emerging trends"
       ]
     }
-],"education": [
+  ],
+  "education": [
     {
       "institution": "Johannes Kepler University",
       "location": "Linz, Austria",
@@ -67,7 +68,12 @@
       "startDate": "2019-03",
       "endDate": "2022-06",
       "score": "Distinction",
-      "courses": ["Quasi-Monte Carlo Methods", "Information-Based Complexity", "Discrete Mathematics", "Finite Fields"]
+      "courses": [
+        "Quasi-Monte Carlo Methods",
+        "Information-Based Complexity",
+        "Discrete Mathematics",
+        "Finite Fields"
+      ]
     },
     {
       "institution": "African University of Science and Technology",
@@ -78,7 +84,12 @@
       "startDate": "2016-07",
       "endDate": "2017-12",
       "score": "",
-      "courses": ["Differential Equation (ODE)", "Linear Algebra", "Real Analysis", "Functional Analysis"]
+      "courses": [
+        "Differential Equation (ODE)",
+        "Linear Algebra",
+        "Real Analysis",
+        "Functional Analysis"
+      ]
     },
     {
       "institution": "Ebonyi State University",
@@ -89,106 +100,111 @@
       "startDate": "2010-10",
       "endDate": "2015-01",
       "score": "",
-      "courses": ["Mathematics", "Programming Fundamentals", "Abstract Algeria", "Numerical Analysis"]
+      "courses": [
+        "Mathematics",
+        "Programming Fundamentals",
+        "Abstract Algebra",
+        "Numerical Analysis"
+      ]
     }
-],
+  ],
   "awards": [
-  {
-    "title": "Special Prize Zonta Award",
-    "date": "2021",
-    "awarder": "Johannes Kepler University (JKU)",
-    "url": "https://www.jku.at/",
-    "summary": "Awarded for outstanding academic achievement in computational mathematics."
-  },
-  {
-    "title": "African Capacity Building Foundation Scholarship Award",
-    "date": "2017",
-    "awarder": "African University of Science and Technology (AUST)",
-    "url": "https://aust.edu.ng/",
-    "summary": "Scholarship awarded to support advanced studies in mathematics and its applications."
-  },
-  {
-    "title": "African University of Science and Technology Scholarship Award",
-    "date": "2016",
-    "awarder": "African University of Science and Technology (AUST)",
-    "url": "https://aust.edu.ng/",
-    "summary": "Merit-based scholarship for exceptional academic performance in mathematics and computer science."
-  }
-],
+    {
+      "title": "Special Prize Zonta Award",
+      "date": "2021",
+      "awarder": "Johannes Kepler University (JKU)",
+      "url": "https://www.jku.at/",
+      "summary": "Awarded for outstanding academic achievement in computational mathematics."
+    },
+    {
+      "title": "African Capacity Building Foundation Scholarship Award",
+      "date": "2017",
+      "awarder": "African University of Science and Technology (AUST)",
+      "url": "https://aust.edu.ng/",
+      "summary": "Scholarship awarded to support advanced studies in mathematics and its applications."
+    },
+    {
+      "title": "African University of Science and Technology Scholarship Award",
+      "date": "2016",
+      "awarder": "African University of Science and Technology (AUST)",
+      "url": "https://aust.edu.ng/",
+      "summary": "Merit-based scholarship for exceptional academic performance in mathematics and computer science."
+    }
+  ],
   "certificates": [
-  {
-    "name": "Data Analyst in Tableau",
-    "date": "2023",
-    "issuer": "Tableau",
-    "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
-    "icon": "fa-solid fa-chart-bar"
-  },
-  {
-    "name": "Tableau Fundamentals",
-    "date": "2023",
-    "issuer": "Tableau",
-    "url": "https://www.tableau.com/learn/training/fundamentals",
-    "icon": "fa-solid fa-table"
-  },
-  {
-    "name": "Machine Learning Specialization",
-    "date": "2023",
-    "issuer": "Coursera",
-    "url": "https://www.coursera.org/specializations/machine-learning",
-    "icon": "fa-solid fa-robot"
-  },
-  {
-    "name": "Neural Networks and Deep Learning",
-    "date": "2021",
-    "issuer": "Coursera",
-    "url": "https://www.coursera.org/learn/neural-networks-deep-learning",
-    "icon": "fa-solid fa-brain"
-  },
-  {
-    "name": "Python for Data Science, AI & Development",
-    "date": "2021",
-    "issuer": "IBM",
-    "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
-    "icon": "fa-brands fa-python"
-  },
-  {
-    "name": "SQL for Data Science",
-    "date": "2020",
-    "issuer": "Coursera",
-    "url": "https://www.coursera.org/learn/sql-for-data-science",
-    "icon": "fa-solid fa-database"
-  }
-],
+    {
+      "name": "Data Analyst in Tableau",
+      "date": "2023",
+      "issuer": "Tableau",
+      "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
+      "icon": "fa-solid fa-chart-bar"
+    },
+    {
+      "name": "Tableau Fundamentals",
+      "date": "2023",
+      "issuer": "Tableau",
+      "url": "https://www.tableau.com/learn/training/fundamentals",
+      "icon": "fa-solid fa-table"
+    },
+    {
+      "name": "Machine Learning Specialization",
+      "date": "2023",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/specializations/machine-learning",
+      "icon": "fa-solid fa-robot"
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "date": "2021",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/learn/neural-networks-deep-learning",
+      "icon": "fa-solid fa-brain"
+    },
+    {
+      "name": "Python for Data Science, AI & Development",
+      "date": "2021",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "icon": "fa-brands fa-python"
+    },
+    {
+      "name": "SQL for Data Science",
+      "date": "2020",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/learn/sql-for-data-science",
+      "icon": "fa-solid fa-database"
+    }
+  ],
   "publications": [
-  {
-    "name": "On a reduced component-by-component digit-by-digit construction of lattice point sets",
-    "publisher": "Uniform distribution theory",
-    "releaseDate": "2023",
-    "url": "https://sciendo.com/de/article/10.2478/udt-2023-0007",
-    "summary": "This paper introduces an efficient reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm for constructing lattice point sets in quasi-Monte Carlo integration. The method is particularly effective for weighted Korobov classes with rapidly decaying weights, offering computational efficiency independent of problem dimension under certain conditions. The algorithm achieves near-optimal convergence order and demonstrates significant speed improvements over previous methods."
-  },
-  {
-    "name": "Construction of good polynomial lattice rules in weighted Walsh spaces by an alternative component-by-component construction",
-    "publisher": "Mathematics and Computers in Simulation",
-    "releaseDate": "2022",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
-    "summary": "This research presents an alternative method for constructing good polynomial lattice rules in weighted Walsh spaces, enhancing computational efficiency in numerical simulations."
-  },
-  {
-    "name": "Component-by-component digit-by-digit construction of good polynomial lattice rules in weighted Walsh spaces",
-    "publisher": "Constructive Approximation",
-    "releaseDate": "2022",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
-    "summary": "This paper introduces a novel component-by-component digit-by-digit construction method for polynomial lattice rules, advancing the field of constructive approximation in weighted Walsh spaces."
-  },
-  {
-    "name": "Digit-by-digit and component-by-component constructions of lattice rules for periodic functions with unknown smoothness",
-    "publisher": "Journal of Complexity",
-    "releaseDate": "2021",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0885064X21000108",
-    "summary": "This research develops new construction methods for lattice rules applicable to periodic functions with unknown smoothness, contributing to the study of computational complexity."
-  }
-],
+    {
+      "name": "On a reduced component-by-component digit-by-digit construction of lattice point sets",
+      "publisher": "Uniform distribution theory",
+      "releaseDate": "2023",
+      "url": "https://sciendo.com/de/article/10.2478/udt-2023-0007",
+      "summary": "This paper introduces an efficient reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm for constructing lattice point sets in quasi-Monte Carlo integration. The method is particularly effective for weighted Korobov classes with rapidly decaying weights, offering computational efficiency independent of problem dimension under certain conditions. The algorithm achieves near-optimal convergence order and demonstrates significant speed improvements over previous methods."
+    },
+    {
+      "name": "Construction of good polynomial lattice rules in weighted Walsh spaces by an alternative component-by-component construction",
+      "publisher": "Mathematics and Computers in Simulation",
+      "releaseDate": "2022",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
+      "summary": "This research presents an alternative method for constructing good polynomial lattice rules in weighted Walsh spaces, enhancing computational efficiency in numerical simulations."
+    },
+    {
+      "name": "Component-by-component digit-by-digit construction of good polynomial lattice rules in weighted Walsh spaces",
+      "publisher": "Constructive Approximation",
+      "releaseDate": "2022",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
+      "summary": "This paper introduces a novel component-by-component digit-by-digit construction method for polynomial lattice rules, advancing the field of constructive approximation in weighted Walsh spaces."
+    },
+    {
+      "name": "Digit-by-digit and component-by-component constructions of lattice rules for periodic functions with unknown smoothness",
+      "publisher": "Journal of Complexity",
+      "releaseDate": "2021",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0885064X21000108",
+      "summary": "This research develops new construction methods for lattice rules applicable to periodic functions with unknown smoothness, contributing to the study of computational complexity."
+    }
+  ],
   "languages": [
     {
       "language": "English",
