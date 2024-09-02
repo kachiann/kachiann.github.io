@@ -1,116 +1,172 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Onyekachi Osisiogu",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kachiann12@gmail.com",
+    "phone": "",
+    "url": "https://kachiann.github.io/",
+    "summary": "Data scientist and computational mathematician with a Ph.D. in Computational Mathematics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Frankfurt",
+      "countryCode": "DE",
+      "region": ""
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "kachi_ann",
+        "url": "https://twitter.com/kachi_ann"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Illinois Institute of Technology",
+      "position": "Senior Research Associate/Visiting Assistant Professor",
+      "url": "https://www.iit.edu",
+      "startDate": "2022-08",
+      "endDate": "2023-07",
+      "summary": "At Illinois Institute of Technology, I served as a Senior Research Associate and Visiting Assistant Professor, focusing on algorithm efficiency and Information-Based Complexity. I collaborated on innovative projects and delivered engaging lectures in undergraduate calculus courses.",
+      "highlights": [
+        "Specialized in Information-Based Complexity, focusing on algorithm efficiency",
+        "Collaborated on developing plug-and-play modules for quasi-Monte Carlo software",
+        "Delivered undergraduate Calculus lectures and created assessments"
+      ]
+    },
+    {
+      "name": "Johann Radon Institute for Computational and Applied Mathematics (RICAM)",
+      "position": "Research Scientist",
+      "url": "https://www.ricam.oeaw.ac.at",
+      "startDate": "2018-12",
+      "endDate": "2022-07",
+      "summary": "At RICAM, I collaborated with an international research team to develop efficient quasi-Monte Carlo algorithms, resulting in four journal publications. I optimized data exchange within the team, boosting research productivity.",
+      "highlights": [
+        "Developed efficient quasi-Monte Carlo algorithms with four journal publications",
+        "Optimized data exchange, resulting in a 15% boost in research productivity",
+        "Implemented QMC algorithms in Python and MATLAB for enhanced computational efficiency"
+      ]
     }
-  ],
+],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Africa Agility Foundation",
+      "location": "Remote",
+      "position": "AI/Data Science Trainer",
+      "url": "https://africaagilityfoundation.org",
+      "startDate": "2024-04",
+      "endDate": "2024-07",
+      "summary": "As an AI/Data Science Trainer, I designed a comprehensive curriculum for data science and AI tracks, ensuring alignment with industry best practices. I created hands-on learning materials, including case studies and coding exercises.",
+      "highlights": [
+        "Developed a cutting-edge curriculum for data science and AI",
+        "Created hands-on learning materials and real-world datasets",
+        "Ensured alignment with industry best practices and emerging trends"
+      ]
     }
-  ],
-  "education": [
+],"education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Johannes Kepler University",
+      "location": "Linz, Austria",
+      "url": "https://www.jku.at/",
+      "area": "Computational Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-01",
+      "endDate": "2022-01",
+      "score": "Distinction",
+      "courses": ["Quasi-Monte Carlo Methods", "Information-Based Complexity", "Discrete Mathematics", "Finite Fields"]
+    },
+    {
+      "institution": "African University of Science and Technology",
+      "location": "Abuja, Nigeria",
+      "url": "https://aust.edu.ng/",
+      "area": "Mathematics",
+      "studyType": "MSc",
+      "startDate": "2016-01",
+      "endDate": "2017-01",
+      "score": "",
+      "courses": ["Differential Equation (ODE)", "Linear Algebra", "Real Analysis", "Functional Analysis"]
+    },
+    {
+      "institution": "Ebonyi State University",
+      "location": "Abakaliki, Nigeria",
+      "url": "https://ebsu.edu.ng/",
+      "area": "Industrial Mathematics and Computer Science",
+      "studyType": "BSc",
+      "startDate": "2010-01",
+      "endDate": "2015-01",
+      "score": "",
+      "courses": ["Mathematics", "Programming Fundamentals", "Abstract Algeria", "Numerical Analysis"]
     }
-  ],
+],
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  {
+    "title": "Special Prize Zonta Award",
+    "date": "2021",
+    "awarder": "Johannes Kepler University (JKU)",
+    "url": "https://www.jku.at/",
+    "summary": "Awarded for outstanding academic achievement in computational mathematics."
+  },
+  {
+    "title": "African Capacity Building Foundation Scholarship Award",
+    "date": "2017",
+    "awarder": "African University of Science and Technology (AUST)",
+    "url": "https://aust.edu.ng/",
+    "summary": "Scholarship awarded to support advanced studies in mathematics and its applications."
+  },
+  {
+    "title": "African University of Science and Technology Scholarship Award",
+    "date": "2016",
+    "awarder": "African University of Science and Technology (AUST)",
+    "url": "https://aust.edu.ng/",
+    "summary": "Merit-based scholarship for exceptional academic performance in mathematics and computer science."
+  }
+],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  {
+    "name": "Data Analyst in Tableau",
+    "date": "2023",
+    "issuer": "Tableau",
+    "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
+    "icon": "fa-solid fa-chart-bar"
+  },
+  {
+    "name": "Tableau Fundamentals",
+    "date": "2023",
+    "issuer": "Tableau",
+    "url": "https://www.tableau.com/learn/training/fundamentals",
+    "icon": "fa-solid fa-table"
+  },
+  {
+    "name": "Machine Learning Specialization",
+    "date": "2023",
+    "issuer": "Coursera",
+    "url": "https://www.coursera.org/specializations/machine-learning",
+    "icon": "fa-solid fa-robot"
+  },
+  {
+    "name": "Neural Networks and Deep Learning",
+    "date": "2021",
+    "issuer": "Coursera",
+    "url": "https://www.coursera.org/learn/neural-networks-deep-learning",
+    "icon": "fa-solid fa-brain"
+  },
+  {
+    "name": "Python for Data Science, AI & Development",
+    "date": "2021",
+    "issuer": "IBM",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+    "icon": "fa-brands fa-python"
+  },
+  {
+    "name": "SQL for Data Science",
+    "date": "2020",
+    "issuer": "Coursera",
+    "url": "https://www.coursera.org/learn/sql-for-data-science",
+    "icon": "fa-solid fa-database"
+  }
+],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
