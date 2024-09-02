@@ -136,7 +136,7 @@
       "issuer": "Data Talks Club",
       "url": "https://certificate.datatalks.club/mlops-zoomcamp/2024/1c5138d7fffc1ff22167e4f5bc447c24c51074a4.pdf",
       "icon": "fa-solid fa-hashtag"
-    }
+    },
     {
       "name": "Data Analyst in Tableau",
       "date": "2023",
@@ -247,5 +247,5 @@
         "Unsupervised Learning"
       ]
     }
-]
+  ]
 }
