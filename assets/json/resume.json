@@ -38,7 +38,7 @@
       "url": "https://www.ricam.oeaw.ac.at",
       "startDate": "2018-12",
       "endDate": "2022-07",
-      "summary": "At RICAM, I collaborated with an international research team to develop efficient quasi-Monte Carlo algorithms, resulting in four journal publications. I optimized data exchange within the team, boosting research productivity.",
+      "summary": "At RICAM, I developed efficient quasi-Monte Carlo algorithms, resulting in four journal publications. I optimized data exchange within the team, boosting research productivity.",
       "highlights": []
     }
   ],
@@ -102,9 +102,7 @@
       "score": "",
       "courses": [
         "Mathematics",
-        "Programming Fundamentals",
-        "Abstract Algebra",
-        "Numerical Analysis"
+        "Programming Fundamentals"
       ]
     }
   ],
@@ -133,24 +131,31 @@
   ],
   "certificates": [
     {
+      "name": "MLOps Zoomcamp",
+      "date": "2024-09-01",
+      "issuer": "Data Talks Club",
+      "url": "https://certificate.datatalks.club/mlops-zoomcamp/2024/1c5138d7fffc1ff22167e4f5bc447c24c51074a4.pdf",
+      "icon": "fa-solid fa-hashtag"
+    }
+    {
       "name": "Data Analyst in Tableau",
       "date": "2023",
-      "issuer": "Tableau",
-      "url": "https://www.tableau.com/learn/certification/certified-data-analyst",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/track/5929600fe78175096b67fa06e79516c5af6b60d2?raw=1",
       "icon": "fa-solid fa-chart-bar"
     },
     {
       "name": "Tableau Fundamentals",
       "date": "2023",
-      "issuer": "Tableau",
-      "url": "https://www.tableau.com/learn/training/fundamentals",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/completed/statement-of-accomplishment/track/60c9c1f6394c9a1e5724f71eb461161dcca2e062",
       "icon": "fa-solid fa-table"
     },
     {
       "name": "Machine Learning Specialization",
       "date": "2023",
       "issuer": "Coursera",
-      "url": "https://www.coursera.org/specializations/machine-learning",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/HWQX7PZKM3Q9",
       "icon": "fa-solid fa-robot"
     },
     {
@@ -163,8 +168,8 @@
     {
       "name": "Python for Data Science, AI & Development",
       "date": "2021",
-      "issuer": "IBM",
-      "url": "https://www.coursera.org/professional-certificates/ibm-data-analyst",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/L7EVZTDWXUKD",
       "icon": "fa-brands fa-python"
     },
     {
@@ -181,7 +186,7 @@
       "publisher": "Uniform distribution theory",
       "releaseDate": "2023",
       "url": "https://sciendo.com/de/article/10.2478/udt-2023-0007",
-      "summary": "This paper introduces an efficient reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm for constructing lattice point sets in quasi-Monte Carlo integration. The method is particularly effective for weighted Korobov classes with rapidly decaying weights, offering computational efficiency independent of problem dimension under certain conditions. The algorithm achieves near-optimal convergence order and demonstrates significant speed improvements over previous methods."
+      "summary": "This paper introduces an efficient reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm for constructing lattice point sets in quasi-Monte Carlo integration. The method is particularly effective for weighted Korobov classes with rapidly decaying weights, offering computational efficiency independent of problem dimension under certain conditions."
     },
     {
       "name": "Construction of good polynomial lattice rules in weighted Walsh spaces by an alternative component-by-component construction",
@@ -219,26 +224,28 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Numerical Analysis",
+        "Quasi-Monte Carlo Methods",
+        "Information-Based Complexity",
+        "Finite Element Methods",
+        "Optimization",
+        "Algorithm Development"
+      ]
+    },
+    {
+      "name": "Data Science and Machine Learning",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Predictive Modeling",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Data Visualization",
+        "Supervised Learning",
+        "Unsupervised Learning"
       ]
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+]
 }
