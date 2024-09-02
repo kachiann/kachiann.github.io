@@ -30,10 +30,7 @@
       "startDate": "2022-08",
       "endDate": "2023-07",
       "summary": "At Illinois Institute of Technology, I served as a Senior Research Associate and Visiting Assistant Professor, focusing on algorithm efficiency and Information-Based Complexity. I collaborated on innovative projects and delivered engaging lectures in undergraduate calculus courses.",
-      "highlights": [
-        "Specialized in Information-Based Complexity, focusing on algorithm efficiency",
-        "Collaborated on developing plug-and-play modules for quasi-Monte Carlo software",
-        "Delivered undergraduate Calculus lectures and created assessments"
+      "highlights":
       ]
     },
     {
@@ -43,11 +40,7 @@
       "startDate": "2018-12",
       "endDate": "2022-07",
       "summary": "At RICAM, I collaborated with an international research team to develop efficient quasi-Monte Carlo algorithms, resulting in four journal publications. I optimized data exchange within the team, boosting research productivity.",
-      "highlights": [
-        "Developed efficient quasi-Monte Carlo algorithms with four journal publications",
-        "Optimized data exchange, resulting in a 15% boost in research productivity",
-        "Implemented QMC algorithms in Python and MATLAB for enhanced computational efficiency"
-      ]
+      "highlights":
     }
 ],
   "volunteer": [
@@ -71,9 +64,9 @@
       "location": "Linz, Austria",
       "url": "https://www.jku.at/",
       "area": "Computational Mathematics",
-      "studyType": "PhD",
-      "startDate": "2019-01",
-      "endDate": "2022-01",
+      "studyType": "PhD in Computational Mathematics",
+      "startDate": "2019-03",
+      "endDate": "2022-06",
       "score": "Distinction",
       "courses": ["Quasi-Monte Carlo Methods", "Information-Based Complexity", "Discrete Mathematics", "Finite Fields"]
     },
@@ -82,9 +75,9 @@
       "location": "Abuja, Nigeria",
       "url": "https://aust.edu.ng/",
       "area": "Mathematics",
-      "studyType": "MSc",
-      "startDate": "2016-01",
-      "endDate": "2017-01",
+      "studyType": "MSc in Mathematics",
+      "startDate": "2016-07",
+      "endDate": "2017-12",
       "score": "",
       "courses": ["Differential Equation (ODE)", "Linear Algebra", "Real Analysis", "Functional Analysis"]
     },
@@ -93,8 +86,8 @@
       "location": "Abakaliki, Nigeria",
       "url": "https://ebsu.edu.ng/",
       "area": "Industrial Mathematics and Computer Science",
-      "studyType": "BSc",
-      "startDate": "2010-01",
+      "studyType": "BSc in Industrial Mathematics and Computer Science",
+      "startDate": "2010-10",
       "endDate": "2015-01",
       "score": "",
       "courses": ["Mathematics", "Programming Fundamentals", "Abstract Algeria", "Numerical Analysis"]
