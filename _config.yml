@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Onyekachi's blog # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog, where I explore the fascinating intersection of mathematics, data science, and real-world problem-solving. As a Ph.D. in Computational Mathematics with expertise in quasi-Monte Carlo algorithms and machine learning, I bring a unique perspective to the world of data.
+blog_description: Welcome to my blog, where I explore the fascinating intersection of mathematics, data science, and real-world problem-solving.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
