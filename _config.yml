@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog! This blog serves as a dedicated space where I showcase my passion for data science, allowing me to articulate my skills and experiences. 
-                  Join me in exploring the dynamic world of data science, where every project is a unique expression of my expertise. Enjoy the journey!
+blog_description: A dedicated space where I showcase my passion for data science, allowing me to articulate my skills and experiences. 
+                  #Join me in exploring the dynamic world of data science, where every project is a unique expression of my expertise. Enjoy the journey!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
