@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exciting News: I've Just Launched a Medium Blog!"
-date: 2024-03-18 16:11:00 -0400
+date: 2024-06-18 16:11:00 -0400
 inline: false
 related_posts: false
 ---
