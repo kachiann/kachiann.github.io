@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 Welcome! I’m a data scientist and computational mathematician with a Ph.D. in Computational Mathematics from [Johannes Kepler University](https://www.jku.at) in Austria. 
 
 #### Reasearch
-My expertise is in advanced algorithms, particularly focusing on quasi-Monte Carlo methods, with extensive experience in both research and teaching.
+My expertise is in developing advanced algorithms, particularly focusing on quasi-Monte Carlo methods, with extensive experience in both research and teaching.
 
 I was a Senior Research Associate and Visiting Assistant Professor at the [Illinois Institute of Technology](https://www.iit.edu) in Chicago, USA,  where I specialized in optimizing algorithm efficiency and contributed to cutting-edge computational projects. I’m passionate about data science and always eager to connect for insights, discussions, or collaborations.
 
