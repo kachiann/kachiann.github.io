@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I had the privilege of serving as an AI/Data Science Trainer for the "Girls in Tech" program at the [Africa Agility Foundation](https://africaagility.org) in April 2024. It was an incredible experience contributing to the growth of future tech leaders.
+I served as an AI/Data Science Trainer for the “Girls in Tech” program at the [Africa Agility Foundation](https://africaagility.org) from April to June 2024, focusing on AI and Data Science/Machine Learning tracks. It was a rewarding experience empowering future tech leaders.
