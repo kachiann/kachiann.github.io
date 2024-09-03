@@ -19,15 +19,29 @@
       }
     ]
   },
-  "research interests": [
+  "interests": [
     {
+      "name": "Computational Mathematics",
+      "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quasi-Monte Carlo methods",
-        "Multivariate Algorithms",
-        "Numerical Integration",
-        "Statistical Learning",
-        "Data analysis",
-        "Machine learning"
+        "Numerical Analysis",
+        "Quasi-Monte Carlo Methods",
+        "Information-Based Complexity",
+        "Finite Element Methods",
+        "Optimization",
+        "Algorithm Development"
+      ]
+    },
+    {
+      "name": "Data Science and Machine Learning",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Predictive Modeling",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Data Visualization",
+        "Supervised Learning",
+        "Unsupervised Learning"
       ]
     }
   ],
@@ -197,32 +211,6 @@
     {
       "language": "German",
       "fluency": "Beginner"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Computational Mathematics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Numerical Analysis",
-        "Quasi-Monte Carlo Methods",
-        "Information-Based Complexity",
-        "Finite Element Methods",
-        "Optimization",
-        "Algorithm Development"
-      ]
-    },
-    {
-      "name": "Data Science and Machine Learning",
-      "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Predictive Modeling",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Data Visualization",
-        "Supervised Learning",
-        "Unsupervised Learning"
-      ]
     }
   ]
 }
