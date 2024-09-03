@@ -180,36 +180,6 @@
       "icon": "fa-solid fa-database"
     }
   ],
-  "publications": [
-    {
-      "name": "On a reduced component-by-component digit-by-digit construction of lattice point sets",
-      "publisher": "Uniform distribution theory",
-      "releaseDate": "2023",
-      "url": "https://sciendo.com/de/article/10.2478/udt-2023-0007",
-      "summary": "This paper introduces an efficient reduced fast component-by-component digit-by-digit (CBC-DBD) algorithm for constructing lattice point sets in quasi-Monte Carlo integration. The method is particularly effective for weighted Korobov classes with rapidly decaying weights, offering computational efficiency independent of problem dimension under certain conditions."
-    },
-    {
-      "name": "Construction of good polynomial lattice rules in weighted Walsh spaces by an alternative component-by-component construction",
-      "publisher": "Mathematics and Computers in Simulation",
-      "releaseDate": "2022",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
-      "summary": "This research presents an alternative method for constructing good polynomial lattice rules in weighted Walsh spaces, enhancing computational efficiency in numerical simulations."
-    },
-    {
-      "name": "Component-by-component digit-by-digit construction of good polynomial lattice rules in weighted Walsh spaces",
-      "publisher": "Constructive Approximation",
-      "releaseDate": "2022",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378475421003220",
-      "summary": "This paper introduces a novel component-by-component digit-by-digit construction method for polynomial lattice rules, advancing the field of constructive approximation in weighted Walsh spaces."
-    },
-    {
-      "name": "Digit-by-digit and component-by-component constructions of lattice rules for periodic functions with unknown smoothness",
-      "publisher": "Journal of Complexity",
-      "releaseDate": "2021",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0885064X21000108",
-      "summary": "This research develops new construction methods for lattice rules applicable to periodic functions with unknown smoothness, contributing to the study of computational complexity."
-    }
-  ],
   "languages": [
     {
       "language": "English",
