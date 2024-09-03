@@ -8,11 +8,8 @@
     "url": "https://kachiann.github.io/",
     "summary": "Data scientist and computational mathematician with a Ph.D. in Computational Mathematics.",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Frankfurt",
-      "countryCode": "DE",
-      "region": ""
+      "countryCode": "DE"
     },
     "profiles": [
       {
@@ -22,6 +19,18 @@
       }
     ]
   },
+  "research interests": [
+    {
+      "keywords": [
+        "Quasi-Monte Carlo methods",
+        "Multivariate Algorithms",
+        "Numerical Integration",
+        "Statistical Learning",
+        "Data analysis",
+        "Machine learning"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Illinois Institute of Technology",
@@ -183,13 +192,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native speaker"
     },
     {
       "language": "German",
-      "fluency": "Beginner",
-      "icon": ""
+      "fluency": "Beginner"
     }
   ],
   "interests": [
