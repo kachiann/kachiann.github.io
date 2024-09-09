@@ -8,22 +8,30 @@ category: machine learning
 
 [Source code](https://github.com/kachiann/Hotel_Booking_Cancellations)
 
-## Predicting Booking Cancellations with Machine Learning
+Hotel Booking Cancellation Predictor
 
-INN Hotels Group is addressing revenue loss from booking cancellations by developing a machine learning solution to predict cancellation probabilities. This initiative will allow for proactive measures to optimize operations.
+Developed an innovative machine learning solution to combat revenue loss from booking cancellations. This cutting-edge system enables proactive measures to optimize operations and maximize revenue.
 
-### Project Objective
+### Key Features
 
-The machine learning model aims to enable:
+1. **Predictive Analytics**: Advanced ML model forecasts cancellation probabilities.
+2. **Dynamic Pricing**: Automatically adjusts room rates based on cancellation risk.
+3. **Targeted Retention**: Identifies high-risk bookings for personalized outreach.
+4. **Optimized Overbooking**: Enhances reservation management to minimize losses.
 
-1. **Implement Dynamic Pricing**: Adjust room rates based on cancellation forecasts.
-2. **Launch Targeted Retention Campaigns**: Identify high-risk bookings for personalized outreach.
-3. **Optimize Overbooking Policies**: Manage reservations effectively to minimize revenue loss.
+### User-Friendly Application
+
+A custom-built app, powered by Python and [Gradio](https://www.gradio.app), brings this technology to the fingertips of hotel staff:
+
+- **Instant Predictions**: Real-time cancellation probability estimates.
+- **Comprehensive Inputs**: Considers factors like lead time, market segment, pricing, and guest details.
+- **Easy Integration**: Seamlessly fits into existing workflows.
+- **Accessible Interface**: User-friendly design for quick adoption.
 
 ### Impact
 
-By accurately predicting cancellations, INN Hotels Group will:
+- Reduced inventory loss
+- Increased revenue through data-driven strategies
+- Enhanced guest satisfaction via personalized communication
 
-- **Minimize Inventory Loss**: Reduce unsold rooms due to cancellations.
-- **Maximize Revenue**: Enhance pricing strategies based on data insights.
-- **Improve Guest Satisfaction**: Offer personalized communication and fair pricing.
+By leveraging a robust dataset, this solution provides accurate, context-specific predictions that enhance revenue management strategies in the hospitality industry. This innovative approach positions me at the forefront of AI-driven decision-making, enabling more effective handling of booking cancellations.
