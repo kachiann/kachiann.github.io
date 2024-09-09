@@ -2,7 +2,7 @@
 layout: page
 title: Hotel Booking Cancellations
 description: Developing a machine learning solution
-img:
+img: assets/img/hotel.png
 category: machine learning
 ---
 
