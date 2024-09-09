@@ -1,8 +1,8 @@
 ---
 layout: about
-title: <strong>Onyekachi</strong> (Osisiogu) Emenieke
+title: about
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Rhineland-Palatinate, Germany
 
 profile:
   align: right
