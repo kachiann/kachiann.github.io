@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: <strong>Onyekachi</strong> (Osisiogu) Emenieke
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
