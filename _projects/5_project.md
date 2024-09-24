@@ -16,11 +16,11 @@ This machine learning project focuses on predicting lead conversion for ExtraaLe
 - Create profiles of leads with high conversion potential
 
 ### Methodology
-**Data Exploration**: Analyzed lead attributes and interaction data
-**Feature Engineering**: Created relevant features to enhance model performance
-**Model Development**: Implemented and compared multiple ML algorithms
-**Model Evaluation**: Used metrics like accuracy, precision, and recall
-**Feature Importance**: Identified top predictors of lead conversion
+- **Data Exploration**: Analyzed lead attributes and interaction data
+- **Feature Engineering**: Created relevant features to enhance model performance
+- **Model Development**: Implemented and compared multiple ML algorithms
+- **Model Evaluation**: Used metrics like accuracy, precision, and recall
+- **Feature Importance**: Identified top predictors of lead conversion
 
 ### Technologies Used
 - Python (Pandas, Scikit-learn, Matplotlib)
