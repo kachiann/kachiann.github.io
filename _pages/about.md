@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Rhineland-Palatinate, Germany
+subtitle: Berlin, Germany
 
 profile:
   align: right
