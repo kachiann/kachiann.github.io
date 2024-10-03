@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I’m a data scientist and computational mathematician with a Ph.D. in Computational Mathematics from [Johannes Kepler University](https://www.jku.at) in Austria. 
+Welcome! I am a passionate data scientist and computational mathematician, currently a Lecturer in Data Analytics at the [Berlin School of Business and Innovation](https://www.berlinsbi.com/). I hold a Ph.D. in Computational Mathematics from [Johannes Kepler University](https://www.jku.at), Austria, and specialize in leveraging mathematical models and data-driven techniques to solve complex problems. Whether in the classroom or through research, I’m dedicated to empowering students and professionals to unlock the full potential of data.
 
 #### Reasearch
 My expertise is in developing advanced algorithms, particularly focusing on quasi-Monte Carlo methods, with extensive experience in both research and teaching.
