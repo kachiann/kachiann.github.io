@@ -47,6 +47,15 @@
     }
   ],
   "work": [
+     {
+      "name": "Berlin School of Business and Innovation",
+      "position": "Lecturer",
+      "url": "https://www.berlinsbi.com/",
+      "startDate": "2024-10",
+      "endDate": " ",
+      "summary": "Developing and delivering engaging lectures on statistical analysis, machine learning, and data visualization. Providing mentorship and support to students, offering feedback on assignments and projects.",
+      "highlights": [ml,f]
+    },
     {
       "name": "Illinois Institute of Technology",
       "position": "Senior Research Associate/Visiting Assistant Professor",
