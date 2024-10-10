@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<img src="assets/img/1689594717_initials-blue.jpg" alt="Alt text" width="300" /> I’m thrilled to announce that I have started a new position as a lecturer in [Data Analytics](https://www.berlinsbi.com/programmes/postgraduate/msc-data-analytics) at the [Berlin School of Business and Innovation (BSBI)](https://www.berlinsbi.com) in the Department of Computer Science and Informatics. I look forward to shaping the next generation of data professionals and contributing to innovative educational experiences! Stay tuned for updates!
+<img src="assets/img/1689594717_initials-blue.jpg" alt="Alt text" width="150" /> I’m thrilled to announce that I have started a new position as a lecturer in [Data Analytics](https://www.berlinsbi.com/programmes/postgraduate/msc-data-analytics) at the [Berlin School of Business and Innovation (BSBI)](https://www.berlinsbi.com) in the Department of Computer Science and Informatics. I look forward to shaping the next generation of data professionals and contributing to innovative educational experiences! Stay tuned for updates!
