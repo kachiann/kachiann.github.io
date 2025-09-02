@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Empowering Nursing Mothers - Intelligent Chatbot Project
+title: Intelligent Chatbot Project
 description: AI-driven support for maternal health and infant care
 img: assets/img/nursing_mothers_chatbot.png
 importance: 1
