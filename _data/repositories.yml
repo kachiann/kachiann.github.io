@@ -4,10 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - kachiann/Iris_streamlit
+  - kachiann/Citi-Bike-Analytics-Pipeline
   - kachiann/project-mlops
-  - kachiann/Hotel_Booking_Cancellations
-  - kachiann/British-Airways-Data-Science-Forage
   #- FortAwesome/Font-Awesome
   #- mathjax/MathJax
   #- jpswalsh/academicons
