@@ -9,3 +9,9 @@ github_repos:
   #- FortAwesome/Font-Awesome
   #- mathjax/MathJax
   #- jpswalsh/academicons
+
+repo_trophies:
+  enabled: true
+
+github_repos_skip_forks: true
+github_repos_skip_archived: true
