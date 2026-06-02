@@ -2,7 +2,7 @@
 layout: page
 title: Financial Time Series Explorer
 description: Interactive exploration of market prices, returns, volatility, drawdowns, and correlations
-img: assets/img/financial-time-series-explorer.jpg
+  img: assets/img/fin_image.png
 importance: 1
 category: work
 related_publications: false
