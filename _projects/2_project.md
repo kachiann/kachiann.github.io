@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Intelligent Chatbot Project
-description: AI-driven support for maternal health and infant care
+title: Nursing Mothers AI Assistant
+description: Retrieval-augmented AI assistant for maternal health and infant care
 img: assets/img/nursing_mothers_chatbot.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-This project delivers an AI-powered chatbot specifically tailored for nursing mothers, addressing real-world challenges in maternal health and infant feeding. By leveraging natural language processing and healthcare resources, the chatbot provides instant, compassionate support on topics such as breastfeeding, nutrition, and postpartum care. The solution stands out for its deep conversational flows, empathetic advice, and medical accuracy, making a meaningful impact on parenting journeys.
+This project delivers an AI-powered assistant tailored for nursing mothers, focused on real-world challenges in maternal health and infant feeding. Using retrieval-augmented generation (RAG), the system combines large language models with curated, expert-backed medical resources to provide reliable guidance on breastfeeding, nutrition, and postpartum care. The Streamlit-based interface offers an accessible, conversational experience, while the underlying retrieval pipeline and vector store ensure that answers remain grounded in high-quality reference material.
 
 ## View Project on GitHub
-Explore the code, deployment guides, user research documentation, and live chatbot demo in the [GitHub repository](https://github.com/kachiann/nursing-mothers-rag-chatbot).
+Explore the full implementation, including the RAG pipeline, Streamlit app, and deployment setup, in the [GitHub repository](https://github.com/kachiann/maternal-health-ai-assistant).
