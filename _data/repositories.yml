@@ -4,11 +4,18 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  # --- Data Engineering & Analytics ---
+  - kachiann/immo-preisrechner-rlp_de
   - kachiann/Citi-Bike-Analytics-Pipeline
+  - kachiann/nourish-mama
   - kachiann/project-mlops
-  #- FortAwesome/Font-Awesome
-  #- mathjax/MathJax
-  #- jpswalsh/academicons
+
+  # --- AI & LLM ---
+  - kachiann/maternal-health-ai-assistant
+
+  # --- Data Science & ML ---
+  - kachiann/hotel-booking-cancellation
+  - kachiann/financial-time-series-explorer
 
 repo_trophies:
   enabled: true
