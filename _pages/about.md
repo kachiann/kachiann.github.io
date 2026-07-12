@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I am a passionate data scientist and computational mathematician, currently a Lecturer in Data Analytics at the [Berlin School of Business and Innovation](https://www.berlinsbi.com/). I hold a Ph.D. in Computational Mathematics from [Johannes Kepler University](https://www.jku.at), Austria, and specialize in leveraging mathematical models and data-driven techniques to solve complex problems. Whether in the classroom or through research, I’m dedicated to empowering students and professionals to unlock the full potential of data.
+Data Engineer and ML Practitioner with a Ph.D. in Computational Mathematics. Builds production-grade ELT pipelines, layered cloud data warehouses (BigQuery, DuckDB, GCP), and ML/MLOps systems. Experienced across the full data stack — from batch ingestion and dbt-style data modelling to agentic AI and LLM-powered  applications. Comfortable in greenfield environments, agile teams, and cross-functional stakeholder collaboration.
+ 
+📍 Frankfurt/Rheinland-Pfalz, Germany · EU work authorisation · Available immediately
 
 #### Reasearch
 My expertise is in developing advanced algorithms, particularly focusing on quasi-Monte Carlo methods, with extensive experience in both research and teaching.
