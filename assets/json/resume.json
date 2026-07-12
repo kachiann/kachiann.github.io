@@ -4,11 +4,9 @@
     "label": "Data Engineer · Data Scientist · ML Practitioner | Ph.D.",
     "image": "",
     "email": "kachi.emenike12@gmail.com",
-    "phone": "+49 1575 4728669",
     "url": "https://kachiann.github.io/",
     "summary": "Data Engineer, Data Scientist, and ML Practitioner with a Ph.D. in Computational Mathematics. Builds production-grade ELT pipelines, layered cloud data warehouses (BigQuery, DuckDB, GCP), predictive ML models, and agentic AI applications using Python, SQL, dbt, Docker, and Terraform. Experienced across the full data stack — from batch ingestion and data modelling to MLOps and LLM-powered systems. Based in Germany, EU work authorisation, available immediately.",
     "location": {
-      "city": "Sprendlingen",
       "region": "Rheinland-Pfalz",
       "countryCode": "DE"
     },
