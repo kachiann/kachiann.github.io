@@ -7,15 +7,17 @@ github_repos:
   # --- Data Engineering & Analytics ---
   - kachiann/immo-preisrechner-rlp_de
   - kachiann/Citi-Bike-Analytics-Pipeline
-  - kachiann/nourish-mama
+  - kachiann/nourishmama
   - kachiann/project-mlops
 
   # --- AI & LLM ---
   - kachiann/maternal-health-ai-assistant
+  - kachiann/agentic-data-analyst
 
   # --- Data Science & ML ---
-  - kachiann/hotel-booking-cancellation
+  - kachiann/multi-asset-trend-forecaster
   - kachiann/financial-time-series-explorer
+  - kachiann/Hotel_Booking_Cancellations
 
 repo_trophies:
   enabled: true
