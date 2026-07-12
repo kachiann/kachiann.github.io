@@ -56,23 +56,12 @@
     {
       "name": "Agentic AI & LLMs",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Retrieval-Augmented Generation (RAG)",
-        "LangChain",
-        "Vector Databases (FAISS)",
-        "GPT-4o",
-        "Agentic Tool-Use"
-      ]
+      "keywords": ["Retrieval-Augmented Generation (RAG)", "LangChain", "Vector Databases (FAISS)", "GPT-4o", "Agentic Tool-Use"]
     },
     {
       "name": "Computational Mathematics",
       "icon": "fa-solid fa-square-root-variable",
-      "keywords": [
-        "Quasi-Monte Carlo Methods",
-        "Information-Based Complexity",
-        "High-Dimensional Numerical Integration",
-        "Stochastic Modelling"
-      ]
+      "keywords": ["Quasi-Monte Carlo Methods", "Information-Based Complexity", "High-Dimensional Numerical Integration", "Stochastic Modelling"]
     }
   ],
 
@@ -142,12 +131,7 @@
       "startDate": "2019-03",
       "endDate": "2022-06",
       "score": "Distinction",
-      "courses": [
-        "Quasi-Monte Carlo Methods",
-        "Information-Based Complexity",
-        "Discrete Mathematics",
-        "Finite Fields"
-      ]
+      "courses": ["Quasi-Monte Carlo Methods", "Information-Based Complexity", "Discrete Mathematics", "Finite Fields"]
     },
     {
       "institution": "WorldQuant University",
@@ -158,11 +142,7 @@
       "startDate": "2024-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Foundations of Financial Engineering",
-        "Stochastic Calculus",
-        "Financial Modelling"
-      ]
+      "courses": ["Foundations of Financial Engineering", "Stochastic Calculus", "Financial Modelling"]
     },
     {
       "institution": "African University of Science and Technology",
@@ -173,12 +153,7 @@
       "startDate": "2016-07",
       "endDate": "2017-12",
       "score": "",
-      "courses": [
-        "Differential Equations (ODE)",
-        "Linear Algebra",
-        "Real Analysis",
-        "Functional Analysis"
-      ]
+      "courses": ["Differential Equations (ODE)", "Linear Algebra", "Real Analysis", "Functional Analysis"]
     },
     {
       "institution": "Ebonyi State University",
@@ -189,11 +164,7 @@
       "startDate": "2010-10",
       "endDate": "2015-01",
       "score": "",
-      "courses": [
-        "Mathematics",
-        "Programming Fundamentals",
-        "Computer Science"
-      ]
+      "courses": ["Mathematics", "Programming Fundamentals", "Computer Science"]
     }
   ],
 

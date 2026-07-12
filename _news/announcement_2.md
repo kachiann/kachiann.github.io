@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-
-
 I’m thrilled to announce the launch of my new Medium blog! As a data scientist with a Ph.D. in Computational Mathematics, I’ll be sharing my insights on data science, AI, and computational mathematics. Expect practical advice, tips, and in-depth explorations on topics like predictive modeling and data visualization.
 
 ---
@@ -15,6 +13,7 @@ I’m thrilled to announce the launch of my new Medium blog! As a data scientist
 I invite you to check out my blog [here](https://medium.com/@kachiann) and join me on this journey of exploration and learning. Your feedback and thoughts are always appreciated!
 
 #### My Latest Posts
+
 <ul> 
     <li><a href="https://medium.com/@kachiann/the-language-of-data-science-key-terms-for-beginners-78a6c4672330">The Language of Data Science: Key Terms for Beginners</a> - Aug 24</li> 
     <li><a href="https://medium.com/@kachiann/understanding-principal-component-analysis-two-perspectives-on-dimensionality-reduction-6dbc9335787b">Understanding Principal Component Analysis: Two Perspectives on Dimensionality Reduction</a> - Aug 23</li> 
