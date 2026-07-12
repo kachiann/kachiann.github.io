@@ -2,29 +2,55 @@
 layout: about
 title: about
 permalink: /
-subtitle: Berlin, Germany
+subtitle: Frankfurt/Rheinland-Pfalz, Germany
 
 profile:
   align: right
   image: pic1.png
-  image_circular: true # crops the image to make it circular
+  image_circular: true
 
-news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true
+selected_papers: false
+social: true
 ---
 
-Data Engineer and ML Practitioner with a Ph.D. in Computational Mathematics. Builds production-grade ELT pipelines, layered cloud data warehouses (BigQuery, DuckDB, GCP), and ML/MLOps systems. Experienced across the full data stack — from batch ingestion and dbt-style data modelling to agentic AI and LLM-powered  applications. Comfortable in greenfield environments, agile teams, and cross-functional stakeholder collaboration.
- 
-📍 Frankfurt/Rheinland-Pfalz, Germany · EU work authorisation · Available immediately
+Welcome! I am **Onyekachi Emenike**, a Data Engineer, Data Scientist, and ML 
+Practitioner with a Ph.D. in Computational Mathematics — and this is where I 
+document what I build, write, and think about data.
 
-#### Reasearch
-My expertise is in developing advanced algorithms, particularly focusing on quasi-Monte Carlo methods, with extensive experience in both research and teaching.
+🟢 **Open to work** — Data Engineering · Analytics Engineering · Data Science · ML Engineering
 
-I was a Senior Research Associate and Visiting Assistant Professor at the [Illinois Institute of Technology](https://www.iit.edu) in Chicago, USA,  where I specialized in optimizing algorithm efficiency and contributed to cutting-edge computational projects. I’m passionate about data science and always eager to connect for insights, discussions, or collaborations.
+I build production-grade ELT pipelines, layered cloud data warehouses, and 
+ML systems in Python, SQL, GCP, and dbt. My work spans the full data stack — 
+from batch ingestion and layered data modelling (raw → staging → marts) to 
+predictive analytics, MLOps pipelines, and agentic AI applications.
+
+📍 Rheinland-Pfalz, Germany · EU work authorisation · Available immediately
+
+---
+
+#### Engineering & Data Science
+
+I design and build data systems that business teams can actually rely on — 
+clean, tested, well-documented transformations that hold up in production. 
+On the data science side, I develop predictive models, time-series forecasts, 
+and ML pipelines that turn raw data into decisions. Recent work includes 
+cloud-native ELT pipelines on GCP with BigQuery and Terraform, an end-to-end 
+MLOps pipeline with Prefect and MLflow, and an agentic RAG assistant built 
+with LangChain, FAISS, and GPT-4o.
+
+**Stack:** Python · SQL · dbt · BigQuery · DuckDB · GCP · Terraform · Docker · 
+Prefect · Bruin · MLflow · Evidently · Scikit-learn · XGBoost · LangChain · 
+FAISS · Streamlit · Plotly
+
+**Open to:** Full-time · Contract · Remote or hybrid in Germany
+
+---
 
 #### Writing
-I enjoy sharing insights on machine learning, data science, and their applications on [Twitter](https://x.com/kachi_ann) and occasionally on my [Medium blog](https://medium.com/@kachiann).
 
-Feel free to reach out via social media or [email](mailto:kachiann12@gmail.com)!
+I write about data engineering, data science, and ML systems on 
+[Medium](https://medium.com/@kachiann) — practical, technical posts 
+aimed at engineers and data professionals.
 
+📩 Reach out directly: [kachi.emenike12@gmail.com](mailto:kachi.emenike12@gmail.com)
