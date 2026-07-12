@@ -5,7 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   # --- Data Engineering & Analytics ---
-  - kachiann/immo-preisrechner-rlp_de
+  - immo-preisrechner-rlp_de
   - kachiann/Citi-Bike-Analytics-Pipeline
   - kachiann/nourishmama
   - kachiann/project-mlops
