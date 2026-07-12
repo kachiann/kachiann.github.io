@@ -2,81 +2,181 @@
   type: map
   contents:
     - name: Full Name
-      value: Onyekachi Osisiogu
+      value: Onyekachi Emenike
+    - name: Location
+      value: Rheinland-Pfalz, Germany
+    - name: Email
+      value: kachi.emenike12@gmail.com
+    - name: Website
+      value: kachiann.github.io
+    - name: Availability
+      value: Available immediately · EU work authorisation
     - name: Languages
-      value: English, Igbo, German
+      value: English (Fluent), German (A2, actively improving), Igbo
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD — Computational Mathematics
       institution: Johannes Kepler University, Linz, Austria
-      year: 2022
+      year: 2019 - 2022
       description:
-        - Specialized in Computational Mathematics
-        - Focused on quasi-Monte Carlo methods and Information-Based Complexity
-    - title: MSc
+        - Quasi-Monte Carlo methods and Information-Based Complexity
+        - High-dimensional numerical integration and algorithm complexity
+        - 4 peer-reviewed journal publications
+    - title: MSc — Mathematics
       institution: African University of Science and Technology, Abuja, Nigeria
-      year: 2017
+      year: 2016 - 2017
       description:
-        - Studied Mathematics
-    - title: BSc
+        - African Capacity Building Foundation Scholarship recipient
+    - title: BSc — Industrial Mathematics & Computer Science
       institution: Ebonyi State University, Abakaliki, Nigeria
-      year: 2015
+      year: 2010 - 2015
       description:
-        - Majored in Industrial Mathematics and Computer Science
+        - Mathematics, programming fundamentals, and applied computing
 
 - title: Experience
   type: time_table
   contents:
-    - title: Senior Research Associate/Visiting Assistant Professor
-      institution: Illinois Institute of Technology, Chicago, Illinois, US
+    - title: Lecturer — Data Analytics & Machine Learning MSc
+      institution: Berlin School of Business and Innovation, Berlin, Germany
+      year: 2024 - 2026
+      description:
+        - Designed and delivered graduate curriculum in applied statistics,
+          machine learning, and data pipeline engineering
+        - Mentored students on reproducible workflow design and communicating
+          quantitative results to non-technical stakeholders
+        - Developed project-based learning frameworks using Python, SQL, and
+          cloud tools
+    - title: Senior Research Associate / Visiting Assistant Professor
+      institution: Illinois Institute of Technology, Chicago, USA
       year: 2022 - 2023
       description:
-        - Specialized in Information-Based Complexity
-        - Developed plug-and-play modules for quasi-Monte Carlo software
-        - Delivered undergraduate Calculus lectures
+        - Developed modular Python components for quasi-Monte Carlo simulation
+          workflows, improving portability and code reusability
+        - Investigated algorithmic complexity scaling (Information-Based Complexity)
+        - Taught undergraduate Calculus to classes of 40 students
     - title: Research Scientist
       institution: Johann Radon Institute for Computational and Applied Mathematics (RICAM), Linz, Austria
       year: 2018 - 2022
       description:
-        - Developed efficient quasi-Monte Carlo algorithms
-        - Published four journal articles
-        - Optimized data exchange within the research team
+        - Built high-performance QMC algorithms in Python and MATLAB as part
+          of an international collaboration (Belgium, Austria, USA)
+        - 4 peer-reviewed journal publications
+        - Teaching assistant for Mathematics for AI I, II & III at JKU
+          (100 students per course)
 
-- title: Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
-    - title: Your open source projects (if any)
-      year: 
-      description: 
+    - title: <a href="https://github.com/kachiann/immo-preisrechner-rlp_de">House Price Predictor — Rhineland-Palatinate</a>
+      year: 2026
+      description:
+        - End-to-end ML pipeline for 3,800+ regional real estate listings
+        - Python · SQLite · XGBoost · MLflow · Streamlit · SHAP · Plotly
+        - Bilingual Streamlit app with SHAP explainability and LLM chat assistant
+    - title: <a href="https://github.com/kachiann/project-mlops">End-to-End MLOps Pipeline — Bike Sharing Demand</a>
+      year: 2024
+      description:
+        - Full ML lifecycle from ingestion to monitored production deployment
+        - Python · MLflow · Prefect · Docker · Kubernetes · GitHub Actions · Evidently
+        - Top 10 finish out of 1,000+ participants — DataTalksClub MLOps Zoomcamp
+    - title: <a href="#">Citi Bike Analytics Platform</a>
+      year: 2024
+      description:
+        - Production ELT platform for millions of NYC Citi Bike trip records
+        - Layered raw → staging → marts architecture on DuckDB and BigQuery
+        - Python · SQL · DuckDB · BigQuery · GCP · Streamlit
+    - title: <a href="#">NourishMama — Cloud-Native ELT Data Warehouse</a>
+      year: 2024
+      description:
+        - Cloud-native ELT pipeline on GCP ingesting 8,000 USDA food records
+        - Layered data warehouse (raw, staging, marts, reports) with Streamlit dashboard
+        - Python · GCP · BigQuery · Terraform · Bruin · Streamlit
+    - title: <a href="#">Maternal Health AI Assistant — Agentic RAG</a>
+      year: 2024
+      description:
+        - Agentic RAG system combining FAISS-indexed guidelines with live API tool-use
+        - GPT-4o agent autonomously routes between retrieval and live USDA data
+        - Python · LangChain · GPT-4o · FAISS · HuggingFace · Streamlit
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - First Place — Data Science & Machine Learning Hackathon, MIT IDSS
+          (competing against 1,000+ participants worldwide)
     - year: 2021
       items:
-        - Special Prize Zonta Award, JKU Linz, Austria
+        - Special Prize Zonta Award, Johannes Kepler University, Linz, Austria
     - year: 2017
       items:
         - African Capacity Building Foundation Scholarship Award, AUST, Nigeria
     - year: 2016
       items:
-        - African University of Science and Technology Scholarship Award, AUST, Nigeria
+        - African University of Science and Technology Scholarship Award, Nigeria
 
-- title: Academic Interests
+- title: Certifications
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Data Engineering Zoomcamp — DataTalksClub
+          (covers dbt, orchestration, cloud warehouses, analytics engineering)
+    - year: 2025
+      items:
+        - Foundations of Financial Engineering — WorldQuant University
+    - year: 2024
+      items:
+        - MLOps Zoomcamp — DataTalksClub
+        - Statistical Learning with Python — Stanford Online
+        - Data Science & Machine Learning — MIT Institute for IDSS
+    - year: 2023
+      items:
+        - Machine Learning Specialization — DeepLearning.AI / Coursera
+        - Tableau Fundamentals — DataCamp
+
+- title: Technical Skills
   type: nested_list
   contents:
+    - title: Data Engineering
+      items:
+        - ELT/ETL pipelines · layered data modelling (raw → staging → marts)
+        - dbt · BigQuery · DuckDB · GCP · cloud data warehouses
+        - Terraform · Docker · Kubernetes · GitHub Actions (CI/CD)
+        - Prefect · Bruin · Airflow (orchestration)
+    - title: Data Science & Machine Learning
+      items:
+        - Python · SQL · R · Pandas · NumPy · Scikit-learn · XGBoost
+        - MLflow · Evidently · Prefect (MLOps)
+        - Time-series forecasting · predictive modelling · feature engineering
+        - SHAP (model explainability)
+    - title: Agentic AI & LLMs
+      items:
+        - LangChain · FAISS · HuggingFace · GPT-4o
+        - Retrieval-Augmented Generation (RAG) · vector databases
+        - Streamlit · Plotly (deployment & visualisation)
     - title: Computational Mathematics
       items:
-        - Quasi-Monte Carlo methods
-        - Information-Based Complexity
-    - title: Numerical Analysis
+        - Quasi-Monte Carlo methods · Information-Based Complexity
+        - High-dimensional numerical integration · stochastic modelling
+
+- title: Academic & Professional Interests
+  type: nested_list
+  contents:
+    - title: Engineering
       items:
-        - Algorithm efficiency
-        - High-dimensional integration
+        - Production data pipelines and cloud data warehouse design
+        - Analytics engineering and dbt-style data modelling
+        - MLOps and model monitoring in production
+    - title: Data Science
+      items:
+        - Time-series forecasting and predictive analytics
+        - Model interpretability and explainability
+        - Agentic AI systems and RAG architectures
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Traveling, Sports
+    - <u>Hobbies:</u> Reading, Travelling, Data visualisation, Family activities
